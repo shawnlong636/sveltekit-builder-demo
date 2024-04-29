@@ -14,7 +14,7 @@
 		<!-- App Bar -->
 		<AppBar>
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">Header</strong>
+				<a href="/"><strong class="text-xl uppercase">Header</strong></a>
 			</svelte:fragment>
 		</AppBar>
 	</svelte:fragment>
